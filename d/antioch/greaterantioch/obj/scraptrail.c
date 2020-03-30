@@ -9,7 +9,7 @@ create(){
    set_obvious_short("%^RESET%^A pile of scraps");
    set_short("%^RESET%^A pile of scraps");
    set_long(
-      "%^RESET%^%^ORANGE%^This looks to be minor pieces of scrap and wreckage that the creautres"+
+      "%^RESET%^%^ORANGE%^This looks to be minor pieces of scrap and wreckage that the creatures"+
       " that robbed and destroyed the caravan no longer wanted. It seems to be thrown half-hazardly"+
       " in such a way that a trail may be forming. Perhaps if you follow the pieces you will find where"+
 	  " they went."
